@@ -1,1 +1,0 @@
-# 022-Mathrandom-practice
